@@ -65,8 +65,6 @@ Full stack developer based in Haiti, running **ZYGREC**, a technology company of
 
 ## 📦 ZYGREC Repositories
 
-- **[moncash-node](https://github.com/zygrec/moncash-node)** — Node.js SDK for MonCash (Digicel Haiti mobile payment) integration. GPL-3.0.
-- **[moncash-demo](https://github.com/zygrec/moncash-demo)** — Demo application showcasing moncash-node in a real integration flow.
 - **[htg-rates](https://github.com/zygrec/htg-rates)** — Node.js service to fetch the daily USD/HTG exchange rate from BRH (Banque de la République d'Haïti).
 
 ---
